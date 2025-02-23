@@ -550,6 +550,9 @@ footer span a:hover{
 }
 
 @media (max-width: 500px) {
+    .navbar .media-icons i{
+        margin-left: 0;
+    }
     .home .home-content .text-2{
         font-size: 50px;
     }
